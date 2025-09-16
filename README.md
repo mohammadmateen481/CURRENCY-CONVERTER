@@ -22,10 +22,13 @@
    3.2- Navigate to the project directory: In Bash
        (cd currency-converter)
 
+
 4> Get an API Key: Sign up for a free API key from (ExchangeRate-API).
 
-5> Update the JavaScript file: Open the main.js file and replace                [ "YOUR_API_KEY_HERE" with your actual API key.
-]
+
+5> Update the JavaScript file: Open the main.js file and replace                [ "YOUR_API_KEY_HERE" with your actual API key.]
+
+
 6> Open in Browser: Open the index.html file in your preferred web browser      to run the application.
 
 
