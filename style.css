@@ -1,0 +1,40 @@
+body{
+    background-color: lightskyblue;
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding:0;
+}
+.container{
+    background-color: lavender;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.currency-container{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.currency-container select{
+    padding: 8px;
+    
+}
+.currency-container input{
+    border: 0px;
+    border-radius: 4px;
+    color: black;
+    font-size: 15px;
+    text-align: left;
+
+}
+select :focus,input :focus{
+    outline: 0;
+}
